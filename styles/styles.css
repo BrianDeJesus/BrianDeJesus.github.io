@@ -117,7 +117,7 @@ body,html {
 }
 
 .feature-text {
-  background-color: rgba(111, 102, 102, 0.5);
+  border-bottom: solid grey 1px;
   color: black;
   width: 30%;
 }
