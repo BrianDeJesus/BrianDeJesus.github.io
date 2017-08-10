@@ -117,8 +117,10 @@ body,html {
 }
 
 .feature-text {
-  border-bottom: solid grey 1px;
+  border-radius: 12px;
   color: black;
+  border-bottom: solid grey 1px;
+  background-color: rgba(255, 255, 255, 0.5);
   width: 30%;
 }
 
