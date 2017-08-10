@@ -108,7 +108,7 @@ body,html {
   grid-template-rows: 1fr 1fr 1fr 1fr;
   text-align: center;
   padding: 2px;
-  background-image: url(../img/ocean.jpeg);
+  background-image: url(../img/ocean-min.jpg);
   background-size: cover;
   opacity: .7;
   justify-items: center;
@@ -221,22 +221,22 @@ body,html {
 }
 
 .img1 {
-  background-image: url(../img/road.jpeg);
+  background-image: url(../img/road-min.jpg);
   min-height: 100%;
 }
 
 .img2 {
-  background-image: url(../img/city.jpg);
+  background-image: url(../img/city-min.jpg);
   min-height: 500px;
 }
 
 .img3 {
-  background-image: url(../img/ocean.jpeg);
+  background-image: url(../img/ocean-min.jpg);
   min-height: 500px;
 }
 
 .img4 {
-  background-image: url(../img/downtown.jpeg);
+  background-image: url(../img/downtown-min.jpg);
   min-height: 500px;
 }
 
