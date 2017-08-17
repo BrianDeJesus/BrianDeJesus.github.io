@@ -1,17 +1,20 @@
 (function () {
 
-
 function getElem(idSelector) {
   return document.getElementById(idSelector);
 }
 
+var slideNav = getElem('slide-nav');
+var header = getElem('main-header');
 //open or close nav slider
 function displaySideNav() {
-  getElem('slide-nav').style.width = '300px';
+  slideNav.style.width = '300px';
+  header.style.opacity = "1";
 }
 
 function closeSideNav() {
-  getElem('slide-nav').style.width = '0';
+  slideNav.style.width = '0';
+  header.style.opacity = ".5";
 }
 
 getElem('hamburger').addEventListener('click', displaySideNav, false);
