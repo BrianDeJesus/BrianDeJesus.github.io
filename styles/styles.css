@@ -108,7 +108,7 @@ body,html {
   margin: 0;
   padding: 2px;
   background: #fff;
-  height: 372px;
+  min-height: 372px;
 }
 
 #proj-feature h1 {
