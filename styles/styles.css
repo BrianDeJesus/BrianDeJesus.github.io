@@ -108,10 +108,11 @@ body,html {
   margin: 0;
   padding: 2px;
   background: #fff;
-  height: 500px;
+  height: 372px;
 }
 
 #proj-feature h1 {
+  margin-top: 57px;
   padding-top: 5px;
   color: white;
   height: 40px;
@@ -124,7 +125,7 @@ body,html {
   border-radius: 10px;
 }
 
-.proj-container {
+#proj-container {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -257,11 +258,6 @@ body,html {
   min-height: 100%;
 }
 
-.img4 {
-  background-image: url(../img/downtown-min.jpg);
-  min-height: 500px;
-}
-
 /*====== about lines =======*/
 
 .skill-header {
@@ -302,6 +298,7 @@ body,html {
     padding: 5px;
     font-size: 30px;
     width: 27px;
+    height: auto;
     text-align: center;
     border-radius: 30%;
 }
