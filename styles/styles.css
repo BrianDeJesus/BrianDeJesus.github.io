@@ -107,7 +107,7 @@ body,html {
   text-align: center;
   margin: 0;
   padding: 2px;
-  background: #fff;
+  background: #DCDCDE;
   min-height: 372px;
 }
 
@@ -116,13 +116,21 @@ body,html {
   padding-top: 5px;
   color: white;
   height: 40px;
-  background: rgba(0, 0, 0, 0.5);
+  background: #020732;
 }
 
 .proj-img {
   width: 200px;
   height: 150px;
-  border-radius: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+figcaption {
+  font-weight: bold;
+  font-size: 19px;
+  background: #fff;
+  padding: 0 5px;
 }
 
 #proj-container {
@@ -137,7 +145,12 @@ body,html {
 .feature-text {
   border-radius: 12px;
   color: black;
-  padding: 0 10px;
+  background: #fff;
+}
+
+.feature-text p {
+  font-style: italic;
+  margin-top: auto;
 }
 
 #proj-feature a {
