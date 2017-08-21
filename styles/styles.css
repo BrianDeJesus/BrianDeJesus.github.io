@@ -154,8 +154,9 @@ figcaption {
 }
 
 #proj-feature a {
-  text-decoration: none;
+  text-decoration: underline;
   color: black;
+
 }
 
 #proj-feature a:hover {
