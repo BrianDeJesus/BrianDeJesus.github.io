@@ -164,8 +164,7 @@ figcaption {
 }
 
 .ptext-wrap {
-  margin: auto;
-  padding-top: 50px;
+  padding-top: 170px;
   height: 100%;
   width: 100%;
   display: grid;
