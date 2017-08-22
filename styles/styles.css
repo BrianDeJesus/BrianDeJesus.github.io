@@ -223,13 +223,14 @@ figcaption {
 
 .thanks {
   border-radius: 20px;
+  padding: 7px;
 }
 
 .thanks-container {
   padding-top: 210px;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 50%;
 }
 
 @keyframes animate {
