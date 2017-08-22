@@ -225,6 +225,13 @@ figcaption {
   border-radius: 20px;
 }
 
+.thanks-container {
+  padding-top: 210px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
 @keyframes animate {
   0% {
     transform: translateY(-15px);
