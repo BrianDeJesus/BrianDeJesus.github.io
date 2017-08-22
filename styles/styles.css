@@ -269,7 +269,7 @@ figcaption {
 
 .img3 {
   background-image: url(../img/ocean-min.jpg);
-  min-height: 100%;
+  height: 100%;
 }
 
 /*====== about lines =======*/
