@@ -324,11 +324,18 @@ figcaption {
 .fa-facebook {
   background-color: #111E8F;
   color: #fff;
+  border-radius: 20%;
 }
 
 .fa-github {
   color: white;
   background-color: black;
+}
+
+.fa-linkedin {
+  color: white;
+  background-color: #09619E;
+  border-radius: 20%;
 }
 
 
