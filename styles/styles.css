@@ -316,31 +316,25 @@ figcaption {
   text-decoration: none;
 }
 
-.fa-envelope {
-  background-color: black;
-  color: #fff;
+.fa-envelope-square {
+  color: black;
 }
 
-.fa-facebook {
-  background-color: #111E8F;
-  color: #fff;
-  border-radius: 20%;
+.fa-facebook-square {
+  color: #111E8F;
 }
 
-.fa-github {
-  color: white;
-  background-color: black;
+.fa-github-square {
+  color: black;
 }
 
-.fa-linkedin {
-  color: white;
-  background-color: #09619E;
-  border-radius: 20%;
+.fa-linkedin-square {
+  color: #09619E;
 }
 
 
 .fa:hover {
-    background-color: grey;
+  color: grey;
 }
 
 footer {
