@@ -146,6 +146,7 @@ figcaption {
   border-radius: 12px;
   color: black;
   background: #fff;
+  box-shadow: 5px 5px 5px black;
 }
 
 .feature-text p {
