@@ -19,5 +19,5 @@ I built this app to help me with my Physics 301 class (digital circuits) at CSUS
 This Arduino project was made to let me check the temperature wherever I took it. [View on Github](https://github.com/BrianDeJesus/Temperature-Sensor) 
 
 [Tic Tac Toe]: https://tictactoe-777.herokuapp.com/
-[Binary Helper]: https://briandejesus.github.io/Binary…
+[Binary Helper]: https://briandejesus.github.io/Binary-Helper/
 [Temperature Sensor]: https://github.com/BrianDeJesus/Temperature-Sensor
