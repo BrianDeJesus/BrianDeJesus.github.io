@@ -6,6 +6,8 @@ permalink: /projects/
 
 # Projects
 
+*These and more can be found on my [Github](https://github.com/BrianDeJesus).*
+
 **[Tic Tac Toe]**
 
 This is web game app built with React js and Redux. I initially created an earlier tic tac toe app which used solely Javascript, HTML, and CSS. This time around, I decided to do a remake it with my newly discovered React and Redux knowledge. I used the minimax algorithm to implement the AI character in the game. There are two different modes, insane and normal. You can play as either X's or O's. [View on Github](https://github.com/BrianDeJesus/ticTacToe)

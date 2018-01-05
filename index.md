@@ -5,4 +5,4 @@
 layout: default
 ---
 
-Hi
+![temppic](https://user-images.githubusercontent.com/14815045/34590609-c28cadb6-f16c-11e7-8f6a-f5092591e0ea.jpg)
