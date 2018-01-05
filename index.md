@@ -5,4 +5,5 @@
 layout: default
 ---
 
-![temppic](https://user-images.githubusercontent.com/14815045/34590609-c28cadb6-f16c-11e7-8f6a-f5092591e0ea.jpg)
+<img width="228" alt="screen shot 2018-01-04 at 4 53 09 pm" src="https://user-images.githubusercontent.com/14815045/34591088-cae88680-f16f-11e7-8764-eb146c12e903.png">
+
