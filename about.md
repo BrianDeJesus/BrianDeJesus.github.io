@@ -8,7 +8,7 @@ permalink: /about/
 
 **Education**
 
-I'm currently a computer science student at California State University, San Marcos. I will be graduating in Spring of 2018. 
+I'm currently a Computer Science student at California State University, San Marcos. I will be graduating in Spring of 2018. 
 
 **Hobbies**
 
