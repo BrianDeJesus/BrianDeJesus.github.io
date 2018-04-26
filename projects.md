@@ -14,7 +14,7 @@ This is a web game app built with React js and Redux. I initially created an ear
 
 **[News Aggregator]**
 
-This desktop app was written in C++ with the [QT](https://www.qt.io/) Framework and I collaborated on it with my Software Engineering group at CSUSM. It has many features which include fetching news, filtering the news, setting perferred news sources and many more. We used a Singleton design pattern. This was my most recent project and was the funnest to work on. I learned a lot from it.
+This desktop app was written in C++ with the [QT](https://www.qt.io/) Framework and I collaborated on it with my Software Engineering group at CSUSM. It has many features which include fetching news, filtering the news, setting preferred news sources and many more. We used a Singleton design pattern. This was my most recent project and was the funnest to work on. I learned a lot from it.
  [View on Github](https://github.com/downtolearn/cs411-T4)
 
 **[Binary Helper]**
